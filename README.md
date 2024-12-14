@@ -1,3 +1,6 @@
+# 下载tag最新版本到本地，解压到文件夹
+# windows点击设备管理，点击上部 操作按钮 点击添加驱动 选择文件夹即可安装
+
 # Windows Precision Touchpad Implementation for Apple MacBook family/Magic Trackpad 2
 
 [![Build Status](https://ligstd.visualstudio.com/_apis/public/build/definitions/7694e0d0-94e3-4fd2-b39a-ecd261e1ba2e/22/badge)](https://ligstd.visualstudio.com/Apple%20PTP%20Trackpad/_build?definitionId=22)
